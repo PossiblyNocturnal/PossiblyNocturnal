@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌙 Just a guy trying to learn Python, Java and C#, with a pinch of JavaScript on the side. 
-- Really like to put 🌙 everywhere
+I am in severe pain
 <!--
 **CephieCodesStuff/CephieCodesStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
